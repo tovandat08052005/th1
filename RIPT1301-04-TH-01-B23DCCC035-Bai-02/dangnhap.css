@@ -1,0 +1,51 @@
+.modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    background-color: #444444;
+}
+
+
+.form {
+    margin: auto;
+    background-color: white;
+}
+
+.login {
+    text-align: center;
+    font-size: 30px;
+    color: #2bc676;
+}
+
+.form-dangnhap {
+    display: inline-grid;
+}
+
+.body {
+    margin: 30px 30px;
+}
+
+.user {
+    padding: 0 20px;
+    font-size: 16px;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.submit {
+    color: white;
+    width: 100%;
+    border: 0;
+    border-bottom: 6px solid #11b456;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #2dcc70;
+    margin: 0;
+    padding: 20px;
+    align-content: center;
+    text-align: center;
+}
